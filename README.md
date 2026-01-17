@@ -37,7 +37,7 @@ Experiments on the **IEMOCAP** dataset demonstrate that our approach significant
     <td align="center">
       <img src="figures/IDCL.png" alt="IDCL Framework" width="100%">
       <br>
-      <em>Figure 2: IDCL Module</em>
+      <em>Figure 2: IDCL Framework</em>
     </td>
   </tr>
 </table>
