@@ -59,6 +59,7 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
 
 ## 🗓️ To-Do List
 We are currently organizing the code for release.
+- [ ] Upload requirements
 - [ ] Upload usage
 - [ ] Upload IDCL training code
 - [ ] Share pre-trained weights
