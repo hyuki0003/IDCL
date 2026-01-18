@@ -47,11 +47,11 @@ Experiments on the **IEMOCAP** dataset demonstrate that our approach establishin
 
 To validate the explicit contribution of our proposed **Inter-Dialog Contrastive Learning (IDCL)** framework, we conducted ablation studies on the IEMOCAP dataset. We compared three settings to isolate the effect of the IDCL objective from transfer learning.
 
-| Model Setting | IEMOCAP (4-way)<br>Acc (%) / WF1 (%) | IEMOCAP (6-way)<br>Acc (%) / WF1 (%) | Note |
-| :--- | :---: | :---: | :--- |
-| **(A) Baseline**<br>*(Cross-Entropy only)* | 80.8 / 80.8 | 65.4 / 65.7 | Baseline |
-| **(B) IDCL (from Scratch)**<br>*(w/o Pre-training)* | 82.5 / 82.5 | 65.8 / 66.2 | **Proves IDCL Efficacy** |
-| **(C) Proposed Full Model**<br>*(with Pre-training)* | **85.9 / 85.8** | **66.4 / 66.6** | **Highly Performance** |
+| Model Setting | IEMOCAP (4-way)<br>Acc (%) / WF1 (%) | IEMOCAP (6-way)<br>Acc (%) / WF1 (%) |
+| :--- | :---: | :---: |
+| **(A) Baseline**<br>*(Cross-Entropy only)* | 80.8 / 80.8 | 65.4 / 65.7 |
+| **(B) IDCL (from Scratch)**<br>*(w/o Pre-training)* | 82.5 / 82.5 | 65.8 / 66.2 |
+| **(C) Proposed Full Model**<br>*(with Pre-training)* | **85.9 / 85.8** | **66.4 / 66.6** |
 
 > **Key Findings:**
 > 1.  **Intrinsic Robustness:** Comparing **(B)** with **(A)**, IDCL alone improved accuracy by **1.7%** (4-way), proving that the IDCL objective effectively learns robust representations by leveraging inter-dialog context, even without external data.
