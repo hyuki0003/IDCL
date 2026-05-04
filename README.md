@@ -100,6 +100,7 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
 ---
 
 ## Citation
+```
 @inproceedings{lee2026inter,
   author={Lee, Dong-Hyuk and Kim, Dae Hyeon and Choi, Young-Seok},
   booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
@@ -108,3 +109,4 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
   pages={11632-11636},
   doi={10.1109/ICASSP55912.2026.11463029}
 }
+```
