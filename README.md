@@ -1,6 +1,4 @@
 # [ICASSP 2026 ORAL] INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS
-> Main code of ICASSP 2026 paper "INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"  
-> [![Paper](https://img.shields.io/badge/paper-PDF-red)](https://ieeexplore.ieee.org/abstract/document/11463029)
 
 <div align="center">
 
@@ -10,6 +8,7 @@
 
 
 
+[![Paper](https://img.shields.io/badge/paper-PDF-red)](https://ieeexplore.ieee.org/abstract/document/11463029)
 [![Conference](https://img.shields.io/badge/ICASSP-2026-4b44ce.svg)](https://2026.ieeeicassp.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -99,3 +98,13 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
 > 2.  **Synergy with Pre-training:** The proposed full model **(C)** achieved the highest performance (+5.1% over baseline), confirming a strong synergy between IDCL and transfer learning strategies.
 
 ---
+
+## Citation
+@inproceedings{lee2026inter,
+  author={Lee, Dong-Hyuk and Kim, Dae Hyeon and Choi, Young-Seok},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations}, 
+  year={2026},
+  pages={11632-11636},
+  doi={10.1109/ICASSP55912.2026.11463029}
+}
