@@ -1,4 +1,6 @@
 # [ICASSP 2026 ORAL] INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS
+> Main code of ICASSP 2026 paper "INTER-DIALOG CONTRASTIVE LEARNING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS"  
+> [![Paper](https://img.shields.io/badge/paper-PDF-red)](https://ieeexplore.ieee.org/abstract/document/11463029)
 
 <div align="center">
 
