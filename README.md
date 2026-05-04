@@ -8,8 +8,8 @@
 
 
 
-[![Paper](https://img.shields.io/badge/paper-PDF-red)](https://ieeexplore.ieee.org/abstract/document/11463029)
 [![Conference](https://img.shields.io/badge/ICASSP-2026-4b44ce.svg)](https://2026.ieeeicassp.org/)
+[![Paper](https://img.shields.io/badge/paper-PDF-red)](https://ieeexplore.ieee.org/abstract/document/11463029)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
