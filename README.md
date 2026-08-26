@@ -101,11 +101,11 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
 
 ## Citation
 ```
-@article{Lee2026InterDialogCL,
-  title={Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations},
-  author={Dong-Hyuk Lee and Dae Hyeon Kim and Young-Seok Choi},
-  journal={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+@INPROCEEDINGS{lee2026idcl,
+  author={Lee, Dong-Hyuk and Kim, Dae Hyeon and Choi, Young-Seok},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations}, 
   year={2026},
-  url={https://api.semanticscholar.org/CorpusID:287688448}
-}
+  pages={11632-11636},
+  doi={10.1109/ICASSP55912.2026.11463029}}
 ```
