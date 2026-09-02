@@ -106,5 +106,5 @@ To validate the explicit contribution of our proposed **Inter-Dialog Contrastive
   title={Inter-Dialog Contrastive Learning for Multimodal Emotion Recognition in Conversations}, 
   year={2026},
   pages={11632-11636},
-  doi={10.1109/ICASSP55912.2026.11463029}} 
+  doi={10.1109/ICASSP55912.2026.11463029}}
 ```
